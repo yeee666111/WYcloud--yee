@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_music_cloud_ts=self.webpackChunkreact_music_cloud_ts||[]).push([[12],{8012:(c,s,e)=>{e.r(s),e.d(s,{default:()=>a});var u=e(5043),t=e(579);const d=c=>(0,t.jsx)("div",{children:"Newdisc"}),a=(0,u.memo)(d)}}]);
+//# sourceMappingURL=12.73b85498.chunk.js.map
